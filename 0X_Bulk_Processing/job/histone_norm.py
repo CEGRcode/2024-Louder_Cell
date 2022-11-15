@@ -1,9 +1,8 @@
-import numpy as np
 import pandas as pd
 import argparse
 
 def normalize_cdt(cdt_in, scaling_cdt):
-    return cdt_in / np.sum(scaling_cdt.values, axis=1, keepdims=True)
+    return (cdt_in.T / scaling_cdt.loc[cdt_in.index].sum(axis=1)).T
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
