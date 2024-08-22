@@ -1,0 +1,9 @@
+../data/BAM/32892_Htz1_M8823_Louder1_-_YPDad__XO.bam
+../data/BAM/32893_Htz1_M8823_Louder3_Swc3-177-255D-Swr1-Halo_YPDad__XO.bam
+../data/BAM/32895_Htz1_M8823_Louder5_swc3D-Swr1-Halo_YPDad__XO.bam
+../data/BAM/32954_Htz1_M8823_Louder1_-_YPDad__XO.bam
+../data/BAM/32957_Htz1_M8823_Louder3_Swc3-177-255D-Swr1-Halo_YPDad__XO.bam
+../data/BAM/32959_Htz1_M8823_Louder5_swc3D-Swr1-Halo_YPDad__XO.bam
+../data/BAM/33878_Swr1_i5006_W303_SWR1-TAP_YPD__XO.bam
+../data/BAM/33882_Swr1_i5006_W303_swc3delta--NatMx--SWR1-TAP_YPD__XO.bam
+../data/BAM/33883_Swr1_i5006_W303_swc3-177-255delta--SWR1-TAP_YPD__XO.bam

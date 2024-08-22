@@ -1,2 +1,6 @@
 **.DS_Store
 data/BAM/*
+data/FQ/*
+data/BigWig/*
+data/TagPileup/*
+**/.ipynb_checkpoints
