@@ -43,6 +43,7 @@ To download data and calculate normalization factors:
 ```
 cd 00_Download_and_Preprocessing
 ./1_download_data.sh
+mkdir norm_logs
 sbatch 3_calculate_scaling_factors.slurm
 ```
 
@@ -50,6 +51,7 @@ sbatch 3_calculate_scaling_factors.slurm
 To process data:
 ```
 cd 02_Bulk_Processing
+mkdir pileup_logs
 sbatch bulk_tagpileup.slurm
 ```
 plot_composites.ipynb contains the code for creating composite plot svgs in 03_Composite_Results.
