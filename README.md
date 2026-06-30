@@ -20,7 +20,7 @@
 
 ### Correspondence: wuc@jhu.edu
 
-### PMID : [XXXXXXXX](https://pubmed.ncbi.nlm.nih.gov/XXXXXXXX/)
+### PMID : [39357520](https://pubmed.ncbi.nlm.nih.gov/39357520/)
 ### GEO ID : [GSE275429](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE275429)
 
 ## Abstract
